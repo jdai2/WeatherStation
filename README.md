@@ -2,7 +2,7 @@
 
 Raspberry Pi Weather Station 
 
-<img src="screenshot.png" width=30%>
+<img src="screenshot.png">
 
 Sensor (to be) used:
 - SCD30 Air Quality (Temperature, Humidity, CO2 concentration)
