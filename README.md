@@ -18,7 +18,7 @@ Free version of [OpenWeatherMap API](https://openweathermap.org/) was used to re
 
 To clone the repository.
 ``` bash
-git clone https://github.com/mrpotatomann-cs/WeatherStation
+git clone https://github.com/jdai2/WeatherStationv
 ```
 
 Copy the following command to install the necessary dependencies and requirements.
